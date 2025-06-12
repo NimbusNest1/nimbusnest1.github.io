@@ -1,3 +1,4 @@
+google.com, pub-2543141236149843, DIRECT, f08c47fec0942fa0
 rtbhouse.com, e3qznauVqenvza0c5wWJ, RESELLER
 criteo.com, B-064389, RESELLER, 9fac4a4a87c2a44f
 themediagrid.com, BIH5U6, RESELLER, 35d5010d7789b49d
